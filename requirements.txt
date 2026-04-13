@@ -1,6 +1,5 @@
 uvicorn==0.24.0
 groq>=1.1.2
-pydantic==2.5.0
 requests==2.31.0
 fastapi==0.110.0
 pydantic>=2.6.0,<3.0.0
